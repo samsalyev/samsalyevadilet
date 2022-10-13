@@ -1,0 +1,10 @@
+.services{
+    background-color: #ECF0F17A;
+    ;
+}
+.staff__avatar{
+    background: url('../position-abs/img/multfilm_gomer.png');
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+}
